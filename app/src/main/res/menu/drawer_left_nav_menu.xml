@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+    <item
+        android:title="HOME"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home1"
+        />
+
+    <item
+        android:title="REALISATIONS"
+        android:id="@+id/realisationsFragment"
+        android:icon="@drawable/ic_trophy"
+        />
+        <item
+            android:title="ABOUT US"
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/ic_info"
+            />
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/FaqFragment"
+            android:icon="@drawable/ic_faq"
+            android:title="FAQ"/>
+
+        <item
+            android:id="@+id/Rateus"
+            android:icon="@drawable/ic_star"
+            android:title="Rate Us"
+            />
+
+        <item
+            android:id="@+id/InfoFragment"
+            android:icon="@drawable/ic_headset"
+            android:title="CONTACT US"/>
+    </group>
+
+</menu>

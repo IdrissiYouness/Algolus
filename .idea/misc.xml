@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_android.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_circle_small.xml" value="0.203" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_cost.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_envelope.xml" value="0.118" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_facebook.xml" value="0.209" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_instagram.xml" value="0.209" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_interface.xml" value="0.1325" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_laugh.xml" value="0.157" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_launcher_background.xml" value="0.101" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.101" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_linkedin.xml" value="0.209" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_marker.xml" value="0.118" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_paint_roller.xml" value="0.157" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_performance.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_phone_call.xml" value="0.118" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_rocket_lunch.xml" value="0.157" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_security.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_selected_dot.xml" value="0.1645" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_undraw_maintenance.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/ic_unselected_dot.xml" value="0.1645" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/rouded_naview.xml" value="0.189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/rounded_navbar.xml" value="0.1645" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/drawable/splash_background.xml" value="0.101" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/activity_splash.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/contact_us.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/drop_down_adapter.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_comm_managment.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_dev_spe.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_devis.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_faq.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_home.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_info.xml" value="0.4" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_maintenace.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_next.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_realisations.xml" value="0.13080601092896174" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_search.xml" value="0.13080601092896174" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_seo.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_services.xml" value="0.13080601092896174" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_splash.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_strategie.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/fragment_web_creation.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/layout/nav_header_layout.xml" value="0.4" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/menu/drawer_bottom_nav_menu.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/menu/drawer_left_nav_menu.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Algolus/app/src/main/res/menu/settings_menu.xml" value="0.21041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

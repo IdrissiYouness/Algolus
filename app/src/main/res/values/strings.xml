@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Algolus</string>
+    <string name="about_section">Algolus est une agence WEB marocaine, créée en 2020, spécialisée dans la création et le développement des solutions informatiques en proportion des besoins des clients.
+A savoir : La conception, le développement, et la gestion des sites web (Dynamique, Statique, E-commerce, CMS). Des applications Web (Mode Hybride)
+Bien évidemment notre agence s’est considérablement engagée pour vous proposer les différentes formes de communication en ligne : Info graphisme, Gestion publicitaire en ligne, Digital Marketing, community management, E-réputation.</string>
+    <string name="formation_txt">Grâce aux formations ci-dessous, apprenez à créer votre propre site internet ! le gérer et surtout comment attirer du traffic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="service_titles">
+        <item>Creation de site web</item>
+        <item>Maintenance</item>
+        <item>Development specific</item>
+        <item>SEO</item>
+        <item>Community Management</item>
+        <item>Strategy Marketing</item>
+    </string-array>
+
+    <string name="hyperlink">Visitez notre agence digital\n<a href="https://algolus.ma">Algolus.ma</a></string>
+</resources>
+
